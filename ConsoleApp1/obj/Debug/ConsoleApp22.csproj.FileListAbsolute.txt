@@ -1,0 +1,7 @@
+D:\Охлоповский 215 группа\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+D:\Охлоповский 215 группа\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+D:\Охлоповский 215 группа\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+D:\Охлоповский 215 группа\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.AssemblyReference.cache
+D:\Охлоповский 215 группа\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+D:\Охлоповский 215 группа\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+D:\Охлоповский 215 группа\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
